@@ -5,4 +5,4 @@ Fun hack showing off Drunk Tank Pink - a shade of pink that magically calms you 
 
 https://twitter.com/scifri/status/321369899857494016
 
-Hosted at https://pinkviewer.com
+Hosted at http://www.pinkviewer.com
